@@ -1,0 +1,9 @@
+v1.0: Initial Release
+
+Cards from KDE's Oxygen White deck used as-is - chopped up, prepared for export, rendered to individual PNGs and arranged as an atlas.
+
+Known issues:
+
+- Some overlapping or mispositioned graphics
+- Some inconsistent design
+

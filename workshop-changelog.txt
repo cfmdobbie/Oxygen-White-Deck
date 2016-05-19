@@ -7,3 +7,10 @@ Known issues:
 - Some overlapping or mispositioned graphics
 - Some inconsistent design
 
+
+v1.1: The Cosmetic Update
+
+- Cleaner Aces
+- Consistent design of Sevens
+- Consistent decorations on court cards
+- Consistent positioning of pips

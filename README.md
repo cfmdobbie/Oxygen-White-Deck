@@ -6,5 +6,5 @@ The source material was downloaded from a KDE release in SVG format in a layout 
 
 Eugene Trounev had released this work into the public domain, so in the same spirit these modifications are released under [CC0](https://creativecommons.org/choose/zero/).
 
-The purpose of this work is to provide a spawnable playing card deck to be used in the game *Tabletop Simulator*.
+The purpose of this work is to provide a spawnable playing card deck to be used in the game *Tabletop Simulator*.  The resulting Steam Workshop mod can be found [here](http://steamcommunity.com/sharedfiles/filedetails/?id=685423493).
 

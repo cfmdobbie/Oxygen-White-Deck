@@ -14,3 +14,9 @@ v1.1: The Cosmetic Update
 - Consistent design of Sevens
 - Consistent decorations on court cards
 - Consistent positioning of pips
+
+
+v1.2: The Funny Update
+
+- Added Jokers from original deck design
+
